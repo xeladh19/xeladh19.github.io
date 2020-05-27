@@ -1,0 +1,1 @@
+body{font-family:"Avenir";font-size:1.5em;color:#555}li.scroll-trigger{transform:scale(0)}li.scroll-trigger.visible{transform:scale(1)}h1.scroll-trigger{font-size:3em;color:blue}h1.scroll-trigger.visible{color:red}
